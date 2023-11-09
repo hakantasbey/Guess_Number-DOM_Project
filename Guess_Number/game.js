@@ -81,3 +81,8 @@ document.addEventListener("keydown", function(event){
         document.querySelector(".check").click()
     }
 })
+
+
+//? Data larin depolanmasi(Application bolumunde)
+// localStorage.setItem("harvey",10)
+// console.log(localStorage.getItem("harvey"));
